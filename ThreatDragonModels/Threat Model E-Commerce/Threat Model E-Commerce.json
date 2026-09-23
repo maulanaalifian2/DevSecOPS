@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Threat Model E-Commerce",
+    "owner": "Maulana Alifian",
+    "description": "Aplikasi E-Commerce ini adalah Aplikasi untuk UMKM berdagang tanpa perlu khawatir dengan biaya toko yg mahal",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Aprl Rustianto",
+    "threatTop": 0
+  }
+}
