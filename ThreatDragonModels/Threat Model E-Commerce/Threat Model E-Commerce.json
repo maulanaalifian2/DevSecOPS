@@ -1,7 +1,7 @@
 {
   "version": "2.6.2",
   "release_version": "",
-  "released_at": "",
+  "released_at": "2026-09-23",
   "summary": {
     "title": "Threat Model E-Commerce",
     "owner": "Maulana Alifian",
@@ -9,7 +9,20 @@
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Surya Pradita"
+      },
+      {
+        "name": "Guntur Dwi"
+      },
+      {
+        "name": "Ridho Abdullah"
+      },
+      {
+        "name": "Farraz Wibawa"
+      }
+    ],
     "diagrams": [
       {
         "id": 0,
